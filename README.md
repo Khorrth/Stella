@@ -2,6 +2,8 @@
 
 Stella is a small developer library written in C which provides API and supplementary routines for creating Wayland surfaces.
 
+![](stella-in-mirage.png "Stella Demo in Mirage")
+
 ## Status
 
 Stella is currently in development. Current version is 1.0. See CHANGELOG.md for available features and DEVELOPMENT-CONVENTIONS.md for versioning policy.
